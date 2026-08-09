@@ -9,7 +9,6 @@ I like building things, learning how systems work, and following interesting que
 - Mathematics
 - Computer Science
 - Artificial Intelligence
-- Physics
 - Game Development
 - Computational Science
 

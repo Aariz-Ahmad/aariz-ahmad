@@ -15,4 +15,4 @@ I like building things, learning how systems work, and following interesting que
 
 ## Projects
 
-I'm currently working on a few things. More coming soon.
+I'm currently working on a few things. Not everything is on Github yet.

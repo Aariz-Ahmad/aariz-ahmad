@@ -1,16 +1,13 @@
-## Hi there 👋
+Aariz Ahmad
 
-<!--
-**Aariz-Ahmad/aariz-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student interested in mathematics, computer science, physics, and artificial intelligence.
 
-Here are some ideas to get you started:
+I like building things, learning how systems work, and following interesting questions wherever they lead. Currently exploring software development, machine learning, game development, and computational science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+Mathematics
+Computer Science
+Artificial Intelligence
+Physics
+Game Development
+Computational Science

@@ -17,7 +17,7 @@ I like building things, learning how systems work, and following interesting que
 
 A Chrome extension for Desmos that makes it easier to create and manipulate shapes, curves, and artwork. It started as a tool for working with Bézier curves and has grown into a broader system for creating things in Desmos that would otherwise be extremely tedious to build manually.
 
-### Collatz Visualizer
+### [Collatz Visualizer](https://github.com/Aariz-Ahmad/collatz-visualizer)
 
 A visual experiment with the Collatz sequence. Rather than being a mathematical testing or research tool, the project is simply an attempt to visualize the emergence of patterns from extremely simple rules — something I find beautiful and astonishing.
 

@@ -19,7 +19,7 @@ A Chrome extension for Desmos that makes it easier to create and manipulate shap
 
 ### [Collatz Visualizer](https://github.com/Aariz-Ahmad/collatz-visualizer)
 
-A visual experiment with the Collatz sequence. Rather than being a mathematical testing or research tool, the project is simply an attempt to visualize the emergence of patterns from extremely simple rules — something I find beautiful and astonishing.
+A visual experiment with the Collatz sequence. Rather than being a mathematical testing or research tool, the project is simply an attempt to visualize the emergence of patterns from extremely simple rules, something I find to be very nice.
 
 I'm currently working on a few other projects as well. Not everything is on GitHub yet.
 

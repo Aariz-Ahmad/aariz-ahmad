@@ -6,16 +6,20 @@ I like building things, learning how systems work, and following interesting que
 
 ## Interests
 
-- Mathematics
-- Computer Science
-- Game Development
-- Modding
+* Mathematics
+* Computer Science
+* Game Development
+* Modding
 
 ## Projects
 
 ### [Bezmos](https://github.com/Aariz-Ahmad/bezmos)
 
 A Chrome extension for Desmos that makes it easier to create and manipulate shapes, curves, and artwork. It started as a tool for working with Bézier curves and has grown into a broader system for creating things in Desmos that would otherwise be extremely tedious to build manually.
+
+### [YouTube Splice Looper](https://github.com/Aariz-Ahmad/Youtube-splice-Looper)
+
+A Chrome extension that lets you loop a specific section of a YouTube video directly from the player. It adds a small control to YouTube's player, allowing you to mark the start and end points of a loop directly on the seek bar.
 
 ### [Collatz Visualizer](https://github.com/Aariz-Ahmad/collatz-visualizer)
 
